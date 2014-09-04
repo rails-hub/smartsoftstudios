@@ -13,6 +13,7 @@ if (is_file(APPPATH . 'classes/Kohana' . EXT)) {
     require SYSPATH . 'classes/Kohana' . EXT;
 }
 
+Cookie::$salt = 'foobar';
 /**
  * Set the default time zone.
  *
