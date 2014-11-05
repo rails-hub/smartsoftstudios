@@ -7,8 +7,8 @@ return array(
     'options' => array(
         'hostname' => 'smtp.gmail.com',
         'port' => '465',
-        'username' => 'testtest@gmail.com',
-        'password' => 'testtest',
+        'username' => ' gooptester@gmail.com',
+        'password' => 'goop1234',
         'encryption' => 'ssl',
     ),
 );
